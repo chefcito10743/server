@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-03 05:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-03 05:19:04 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-04-03 05:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-03 05:02:39 +0000"
@@ -799,6 +811,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:breeze": "2025-04-03 05:51:06 +0000",
       "minecraft:stray": "2025-04-03 05:26:45 +0000",
       "minecraft:spider": "2025-04-03 05:11:02 +0000",
       "minecraft:zombie": "2025-04-03 05:08:43 +0000",
@@ -1096,6 +1109,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-03 05:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-03 05:51:08 +0000"
     },
     "done": true
   },
