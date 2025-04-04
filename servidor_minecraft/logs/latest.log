@@ -1,139 +1,38 @@
-[04:54:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:54:05] [ServerMain/INFO]: No existing world data, creating new world
-[04:54:06] [ServerMain/INFO]: Loaded 1290 recipes
-[04:54:06] [ServerMain/INFO]: Loaded 1399 advancements
-[04:54:07] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:54:07] [Server thread/INFO]: Loading properties
-[04:54:07] [Server thread/INFO]: Default game type: SURVIVAL
-[04:54:07] [Server thread/INFO]: Generating keypair
-[04:54:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:54:07] [Server thread/INFO]: Using epoll channel type
-[04:54:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:54:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:54:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:54:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:54:07] [Server thread/INFO]: Preparing level "world"
-[04:54:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:54:12] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[04:54:12] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:54:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:54:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:54:14] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[04:54:14] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[04:54:16] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[04:54:16] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[04:54:16] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[04:54:16] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[04:54:17] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[04:54:17] [Server thread/INFO]: Time elapsed: 5356 ms
-[04:54:17] [Server thread/INFO]: Done (10.352s)! For help, type "help"
-[04:55:23] [Server thread/INFO]: chefcito10743[/127.75.167.32:34815] logged in with entity id 9 at (56.5, 72.0, 227.5)
-[04:55:23] [Server thread/INFO]: chefcito10743 joined the game
-[04:57:54] [Server thread/INFO]: luzbell2024[/127.75.167.32:36547] logged in with entity id 570 at (57.5, 72.0, 225.5)
-[04:57:54] [Server thread/INFO]: luzbell2024 joined the game
-[05:02:39] [Server thread/INFO]: luzbell2024 has made the advancement [Stone Age]
-[05:03:27] [Server thread/INFO]: luzbell2024 has made the advancement [Getting an Upgrade]
-[05:05:27] [Server thread/INFO]: chefcito10743 has made the advancement [Stone Age]
-[05:06:17] [Server thread/INFO]: chefcito10743 has made the advancement [Getting an Upgrade]
-[05:08:05] [Server thread/INFO]: luzbell2024 has made the advancement [Sweet Dreams]
-[05:08:43] [Server thread/INFO]: luzbell2024 has made the advancement [Monster Hunter]
-[05:09:29] [Server thread/INFO]: chefcito10743 has made the advancement [Acquire Hardware]
-[05:09:46] [Server thread/INFO]: [Not Secure] <luzbell2024> hoal que hace
-[05:09:56] [Server thread/INFO]: chefcito10743 has made the advancement [Isn't It Iron Pick]
-[05:11:09] [Server thread/INFO]: chefcito10743 has made the advancement [Monster Hunter]
-[05:13:13] [Server thread/INFO]: chefcito10743 has made the advancement [Suit Up]
-[05:16:19] [Server thread/INFO]: luzbell2024 has made the advancement [Acquire Hardware]
-[05:16:55] [Server thread/INFO]: luzbell2024 has made the advancement [Isn't It Iron Pick]
-[05:17:00] [Server thread/INFO]: chefcito10743 has made the advancement [Not Today, Thank You]
-[05:19:08] [Server thread/INFO]: chefcito10743 has made the advancement [Diamonds!]
-[05:19:19] [Server thread/INFO]: luzbell2024 has made the advancement [Minecraft: Trial(s) Edition]
-[05:23:47] [Server thread/INFO]: chefcito10743 was shot by Skeleton
-[05:25:08] [Server thread/INFO]: Incorrect argument for command
-[05:25:08] [Server thread/INFO]: op  chefcito10743<--[HERE]
-[05:25:34] [Server thread/INFO]: Made chefcito10743 a server operator
-[05:25:48] [Server thread/INFO]: [chefcito10743: Set own game mode to Creative Mode]
-[05:26:40] [Server thread/INFO]: luzbell2024 has made the advancement [Not Today, Thank You]
-[05:26:52] [Server thread/INFO]: [chefcito10743: Gave 1 [Command Block] to chefcito10743]
-[05:27:23] [Server thread/INFO]: [chefcito10743: Created new objective [vida]]
-[05:27:43] [Server thread/INFO]: [chefcito10743: Set display slot list to show objective vida]
-[05:28:44] [Server thread/INFO]: [chefcito10743: Set own game mode to Survival Mode]
-[05:29:06] [Server thread/INFO]: [chefcito10743: Set own game mode to Creative Mode]
-[05:32:11] [Server thread/INFO]: [chefcito10743: Created team [ADMIN]]
-[05:32:33] [Server thread/INFO]: [chefcito10743: Added chefcito10743 to team [ADMIN]]
-[05:40:01] [Server thread/INFO]: [Not Secure] <[ADMIN]chefcito10743 ♡ > oli
-[05:48:57] [Server thread/INFO]: luzbell2024 has made the advancement [Wax Off]
-[05:49:46] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[05:53:00] [Server thread/INFO]: [Not Secure] <luzbell2024> 229
-[05:53:05] [Server thread/INFO]: [Not Secure] <luzbell2024> -9
-[05:53:12] [Server thread/INFO]: [Not Secure] <luzbell2024> 364
-[05:53:19] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[05:53:20] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  has made the advancement [Minecraft: Trial(s) Edition]
-[05:53:29] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[05:54:29] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[05:56:00] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Gave 1 [Iron Sword] to luzbell2024]
-[05:56:13] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[05:56:31] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[06:04:33] [Server thread/INFO]: luzbell2024 has made the advancement [Under Lock and Key]
-[06:04:34] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:05:22] [Server thread/INFO]: luzbell2024 has made the advancement [Take Aim]
-[06:08:50] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:10:07] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[06:10:49] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Gave 1 [Netherite Sword] to 2]
-[06:10:59] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[06:12:28] [Server thread/INFO]: luzbell2024 was slain by Husk
-[06:12:48] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported luzbell2024 to [ADMIN]chefcito10743 ♡ ]
-[06:13:45] [Server thread/INFO]: [Not Secure] <[ADMIN]chefcito10743 ♡ > give @a netherite_sword[enchantments={looting:121,mending:1,sharpness:101,unbreaking:39},attribute_modifiers=[{type:max_health,amount:1024,slot:hand,operation:add_value,id:"1743660762391"},{type:attack_damage,amount:2048,operation:add_value,id:"17436607623
-[06:14:36] [Server thread/INFO]: luzbell2024 fell from a high place
-[06:14:39] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported luzbell2024 to [ADMIN]chefcito10743 ♡ ]
-[06:15:05] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[06:15:09] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported luzbell2024 to [ADMIN]chefcito10743 ♡ ]
-[06:15:21] [Server thread/INFO]: luzbell2024 was slain by [ADMIN]chefcito10743 ♡ 
-[06:15:33] [Server thread/INFO]: luzbell2024 was slain by [ADMIN]chefcito10743 ♡ 
-[06:15:59] [Server thread/INFO]: chefcito10743 lost connection: Kicked by an operator
-[06:15:59] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  left the game
-[06:15:59] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Kicked [ADMIN]chefcito10743 ♡ : Kicked by an operator]
-[06:15:59] [Server thread/WARN]: handleDisconnection() called twice
-[06:16:06] [Server thread/INFO]: chefcito10743[/127.75.167.32:57973] logged in with entity id 25569 at (177.30000001192093, 52.0, 365.69999998807907)
-[06:16:07] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  joined the game
-[06:17:20] [Server thread/INFO]: luzbell2024 has completed the challenge [Cover Me in Debris]
-[06:17:41] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  has made the advancement [Who is Cutting Onions?]
-[06:17:52] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  has made the advancement [Ice Bucket Challenge]
-[06:19:23] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[06:19:41] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:20:23] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Creeper]
-[06:20:48] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Creeper]
-[06:21:58] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:22:06] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[06:22:55] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Spectator Mode]
-[06:23:46] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Lightning Bolt]
-[06:23:52] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Lightning Bolt]
-[06:23:53] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Lightning Bolt]
-[06:23:55] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Lightning Bolt]
-[06:23:56] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Lightning Bolt]
-[06:24:13] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Armor Stand]
-[06:25:16] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:26:08] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:29:32] [Server thread/INFO]: luzbell2024 has made the advancement [Cover Me with Diamonds]
-[06:29:59] [Server thread/INFO]: luzbell2024 has made the advancement [Diamonds!]
-[06:33:49] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Zombie]
-[06:34:17] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Bat]
-[06:34:26] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Teleported [ADMIN]chefcito10743 ♡  to luzbell2024]
-[06:34:30] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Bat]
-[06:35:33] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Skeleton]
-[06:35:49] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Skeleton]
-[06:36:24] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Cat]
-[06:36:30] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Cat]
-[06:38:04] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Zombie Horse]
-[06:38:13] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Zombie Horse]
-[06:38:48] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Zombie Horse]
-[06:39:14] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Summoned new Zombie Horse]
-[06:39:32] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[06:42:18] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Survival Mode]
-[06:42:18] [Server thread/INFO]: luzbell2024 has reached the goal [Revaulting]
-[06:42:34] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Set own game mode to Creative Mode]
-[06:43:12] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  has reached the goal [Revaulting]
-[06:45:34] [Server thread/INFO]: [ADMIN]chefcito10743 ♡  has made the advancement [Who Needs Rockets?]
-[06:46:46] [Server thread/INFO]: [[ADMIN]chefcito10743 ♡ : Gave 1 [Netherite Sword] to 2]
-[06:51:30] [Server thread/INFO]: luzbell2024 has made the advancement [Who Needs Rockets?]
-[06:51:49] [Server thread/INFO]: luzbell2024 lost connection: Disconnected
-[06:51:49] [Server thread/INFO]: luzbell2024 left the game
+[23:50:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:50:16] [ServerMain/INFO]: No existing world data, creating new world
+[23:50:17] [ServerMain/INFO]: Loaded 1290 recipes
+[23:50:17] [ServerMain/INFO]: Loaded 1399 advancements
+[23:50:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:50:18] [Server thread/INFO]: Loading properties
+[23:50:18] [Server thread/INFO]: Default game type: SURVIVAL
+[23:50:18] [Server thread/INFO]: Generating keypair
+[23:50:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:50:18] [Server thread/INFO]: Using epoll channel type
+[23:50:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:50:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:50:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:50:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:50:18] [Server thread/INFO]: Preparing level "world"
+[23:50:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:50:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:50:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:50:26] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:50:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:50:27] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[23:50:27] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:50:28] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:50:28] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:50:29] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:50:29] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:50:30] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[23:50:30] [Server thread/INFO]: Time elapsed: 5135 ms
+[23:50:30] [Server thread/INFO]: Done (12.297s)! For help, type "help"
+[23:50:37] [Server thread/INFO]: chefcito10743[/127.75.167.32:41067] logged in with entity id 12 at (110.5, 63.0, -266.5)
+[23:50:37] [Server thread/INFO]: chefcito10743 joined the game
+[23:51:21] [Server thread/INFO]: Made chefcito10743 a server operator
+[23:52:53] [Server thread/INFO]: [chefcito10743: Created new objective [vida]]
+[23:53:36] [Server thread/INFO]: [chefcito10743: Set display slot list to show objective vida]
+[23:56:28] [Server thread/INFO]: [chefcito10743: Created team [ADMIN]]
+[23:56:34] [Server thread/INFO]: [chefcito10743: Created team [MOD]]
+[23:57:40] [Server thread/INFO]: [chefcito10743: Created team [MIEMBRO]]
+[23:58:29] [Server thread/INFO]: [chefcito10743: Added chefcito10743 to team [MOD]]
