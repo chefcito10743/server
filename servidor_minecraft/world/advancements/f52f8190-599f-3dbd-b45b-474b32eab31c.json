@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-04 23:52:02 +0000",
       "minecraft:forest": "2025-04-04 00:55:32 +0000",
       "minecraft:plains": "2025-04-04 00:55:00 +0000"
     },
@@ -266,6 +267,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-05 00:03:33 +0000",
       "minecraft:spider": "2025-04-04 01:04:44 +0000",
       "minecraft:zombie": "2025-04-04 01:05:08 +0000",
       "minecraft:creeper": "2025-04-04 23:30:06 +0000"
@@ -427,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-05 00:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-04-04 23:20:44 +0000"
@@ -535,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-05 00:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 23:31:39 +0000"
@@ -604,6 +618,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-05 00:04:34 +0000"
     },
     "done": true
   },
@@ -727,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-05 00:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 23:31:39 +0000"
@@ -802,6 +828,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 23:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-05 00:04:34 +0000"
     },
     "done": true
   },
