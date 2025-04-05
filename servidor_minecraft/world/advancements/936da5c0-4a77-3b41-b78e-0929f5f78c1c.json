@@ -426,6 +426,7 @@
       "cooked_porkchop": "2025-04-04 00:29:06 +0000",
       "spider_eye": "2025-04-05 00:00:10 +0000",
       "bread": "2025-04-04 23:26:25 +0000",
+      "cooked_chicken": "2025-04-05 00:08:37 +0000",
       "cooked_mutton": "2025-04-04 23:09:03 +0000",
       "cooked_beef": "2025-04-04 00:55:17 +0000",
       "melon_slice": "2025-04-04 23:19:11 +0000"
@@ -1203,6 +1204,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 23:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-05 00:08:45 +0000"
     },
     "done": true
   },
